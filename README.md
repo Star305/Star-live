@@ -68,3 +68,14 @@ STA/
 4. Link repo and set:
    - *Build Command:* `npm install`
    - *Start Command:* `npm start`
+- *Publish Directory:* `.`
+
+---
+
+🤝 License
+
+Free to use and customize. Credit appreciated!
+
+---
+
+*Made with ❤️ by EMMANUEL OLIVER*
